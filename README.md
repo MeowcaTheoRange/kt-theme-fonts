@@ -8,8 +8,8 @@
 # List
 
 ## 1. Saira
-  ![Saira](https://github.com/Nekitori17/bn-theme-fonts/raw/main/assets/Saira.png?raw=1)
+  ![Saira](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/assets/Saira.png)
   > Link Snippet
   ```
-  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/Saira/Saira-font-snippet.json
+  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/Saira/Saira.json
   ```
