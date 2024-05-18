@@ -1,7 +1,7 @@
 {
   "spec": 1,
   "name": "Saira",
-  "previewText": "Saira In Discord??? (Like Phigros :thonking:)",
+  "previewText": "Added from Phigros :thoking:",
   "main": {
     "ABCGintoNord-ExtraBold": "https://github.com/Nekitori17/bn-theme-fonts/raw/master/Saira/Saira-Bold.ttf?raw=1",
     "ggsans-Bold": "https://github.com/Nekitori17/bn-theme-fonts/raw/master/Saira/Saira-Bold.ttf?raw=1",
@@ -21,5 +21,5 @@
   	"NotoSans-NormalItalic": "https://github.com/Nekitori17/bn-theme-fonts/raw/master/Saira/Saira-Regular.ttf?raw=1",
   	"NotoSans-Semibold": "https://github.com/Nekitori17/bn-theme-fonts/raw/master/Saira/Saira-Medium.ttf?raw=1",
   	"SourceCodePro-Semibold": "https://github.com/Nekitori17/bn-theme-fonts/raw/master/Saira/Saira-Medium.ttf?raw=1"
-    }
+  }
 }
