@@ -10,29 +10,29 @@
 <h1 align="center">📑 Collection
 
 ## 1. Saira (Phigros)
-  ![Saira](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/assets/Saira.png)
+  ![Saira](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/assets/Saira.png)
   > Link Snippet
   ```
-  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/Saira/Saira.json
+  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/Saira/Saira.json
   ```
   
 ## 2. Myriad (Arcaea)
-  ![Myriad](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/assets/Myriad-Pro.png)
+  ![Myriad](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/assets/Myriad-Pro.png)
   > Link Snippet
   ```
-  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/Myriad-Pro/Myriad-Pro.json
+  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/Myriad-Pro/Myriad-Pro.json
   ```
   
 ## 3. Electrolize (Cytus II)
-  ![Electrolize](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/assets/Electrolize.png)
+  ![Electrolize](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/assets/Electrolize.png)
   > Link Snippet
   ```
-  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/Electrolize/Electrolize.json
+  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/Electrolize/Electrolize.json
   ```
   
 ## 4. Undertale Pack
-  ![Undertale](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/assets/Undertale.png)
+  ![Undertale](https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/assets/Undertale.png)
   > Link Snippet
   ```
-  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/master/Undertale/Undertale.json
+  https://raw.githubusercontent.com/Nekitori17/bn-theme-fonts/main/Undertale/Undertale.json
   ```
